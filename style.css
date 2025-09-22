@@ -1,0 +1,150 @@
+/* Default Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Layout control me rakhta hai */
+}
+
+/* Full height for page */
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+/* -------------------- Header start -------------------- */
+
+header{
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.hd1{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 30px;
+}
+
+#himg1{
+    width: 180px;
+}
+
+#hbtn1{
+    width: 60px;
+    height: 20px;
+    background-color: rgb(235, 233, 233);
+    border-radius: 25px;
+    border: none;
+   
+}
+
+.hd2{
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 30px;
+    padding-right: 20px;
+}
+
+#hbtn2{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(235, 233, 233);
+    border-radius: 25px;
+    border: none;
+}
+#himg2{
+    width: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#himg3{
+    width: 50px;
+}
+#himg4{
+    width: 30px;
+}
+
+
+/* -------------------- Header End -------------------- */
+
+
+
+/* -------------------- Main Start -------------------- */
+
+
+/* ------------------- Main Div 1 ------------------  */
+.main-div1{
+    border: 1px solid rgb(235, 233, 233);
+    padding-top: 80px;
+    padding-left: 60px;
+    color: rgb(190, 189, 189);
+}
+
+/* ------------------- Main Div 2 ------------------  */
+
+.main-div2{
+    border: 1px solid rgb(235, 233, 233);
+    padding-left: 60px;
+}
+
+h1{
+    font-size: 80px;
+    font-family: sans-serif;
+}
+
+/* ------------------- Main Div 3 ------------------  */
+
+.main-div3{
+    border: 1px solid rgb(235, 233, 233);
+    padding-top: 20px;
+    padding-left: 60px;
+    color: rgb(190, 189, 189);
+}
+
+/* ------------------- Main Div 4 ------------------  */
+
+.main-div4{
+    border: 1px solid rgb(235, 233, 233);
+    padding: 10px 60px;
+}
+
+.main-p1{
+    font-size: 25px;
+}
+
+.main-p1 span{
+    color: #00a6f4;
+}
+
+/* ------------------- Main Div 5 ------------------  */
+
+.main-div5{
+    border: 1px solid rgb(235, 233, 233);
+    padding-top: 40px;
+}
+
+/* ------------------- Main Div 6 ------------------  */
+
+.main-div6{
+    border: 1px solid rgb(235, 233, 233);
+    padding-left: 60px;
+    color: rgb(190, 189, 189);
+}
+
+.main
+
+#btn2-img{
+    width: 20px;
+}
+
+/* ------------------- Main Div 5 ------------------  */
+/* -------------------- Main End -------------------- */
