@@ -38,6 +38,7 @@ header{
     background-color: rgb(235, 233, 233);
     border-radius: 25px;
     border: none;
+    cursor: grab;
    
 }
 
@@ -56,6 +57,7 @@ header{
     background-color: rgb(235, 233, 233);
     border-radius: 25px;
     border: none;
+    cursor: grab;
 }
 #himg2{
     width: 20px;
@@ -138,12 +140,37 @@ h1{
     border: 1px solid rgb(235, 233, 233);
     padding-left: 60px;
     color: rgb(190, 189, 189);
+} 
+
+#main-btn1{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color: black;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: grab;
 }
 
-.main
+#main-btn2{
+    width: 250px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid rgb(189, 187, 187);
+    border-radius: 30px;
+    cursor: grab;
+}
 
 #btn2-img{
-    width: 20px;
+    width: 30px;
+}
+
+#btn2-input{
+    width: 170px;
+    height: 100%;
+    border: none;
+    outline: none;
 }
 
 /* ------------------- Main Div 5 ------------------  */
