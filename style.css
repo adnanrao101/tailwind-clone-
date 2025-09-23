@@ -193,7 +193,7 @@ h1{
 }
 
 #div8-1{
-    border: 2px solid rgb(235, 233, 233);
+    border: 1px solid rgb(235, 233, 233);
     width: 58%;
     background-color: rgb(173, 173, 173);
     display: flex;
@@ -220,5 +220,37 @@ h1{
     border-radius: 30px;
     box-shadow: 5px 3px 3px 2px  gray;
 }
+
+/* ------------------- Main Div 9 ------------------  */
+
+.main-div9{
+    border: 1px solid rgb(235, 233, 233);
+    padding-top: 150px;
+}
+
+/* ------------------- Main Div 10 ------------------  */
+
+.main-div10{
+    border: 1px solid rgb(235, 233, 233);
+    padding-left: 60px;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* -------------------- Main End -------------------- */
